@@ -4,7 +4,7 @@ I work on AI products.
 I care about turning complex technical context into clearer product decisions.  
 I also ship small products and landing experiences that make the idea tangible.
 
-✉️ [Email](mailto:oniszczukthommy@gmail.com)
+📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5cd98bab0000000010005b08) · ✉️ [Email](mailto:oniszczukthommy@gmail.com)
 
 ---
 
