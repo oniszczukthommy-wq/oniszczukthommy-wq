@@ -1,38 +1,37 @@
-# Hi, I'm Yuanhang Zhou (周远航) 👋
+# Hi, I'm Yuanhang Zhou 👋
 
-AI Product Manager building local-first AI tools and agents — from PRD and user research all the way to a runnable demo.
-I focus on Agent product design, human-in-the-loop decision flows, and shipping small, opinionated products end to end.
+[![YZH OS launcher](assets/portfolio-launch.svg)](https://oniszczukthommy-wq.github.io/)
+<p align="center"><sub>Click the terminal launcher above to open my personal site</sub></p>
 
-📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5cd98bab0000000010005b08) · ✉️ oniszczukthommy@gmail.com · 📍 Open to AI PM / FDE roles (Singapore)
+I build local-first AI tools and agents: from PRD and user research all the way to a demo you can actually run.
+My background is music education and teaching; I practice Agent product design, human-in-the-loop decision flows, and shipping small, opinionated products end to end.
+
+🌐 [Website](https://oniszczukthommy-wq.github.io/) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5cd98bab0000000010005b08) · ✉️ oniszczukthommy@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### Runnable Demos（可本地跑起来的产品原型）
 
 🔭 **[film-shot-agent](https://github.com/oniszczukthommy-wq/film-shot-agent)** — *Cinematic shot & line search agent*
-A personal agent that finds frames and lines with natural language: faceted search on palette / brightness / color temperature, subtitle context aligned to the timeline, one-click MP4 / GIF clip export, and an annotated reference board. FastAPI + SQLite + ffmpeg, 58 offline tests; all footage under CC BY 3.0.
-> 影视镜头与台词检索 Agent：一句话找画面、找台词、切片导出、收参考板；规则驱动，Agent 每一步的检索调用与耗时都摊开在 trace 面板里。
+Retrieval agent over two CC BY 3.0 open films: 244 shots, faceted search, dialogue aligned to the timeline, ffmpeg clip export and reference board; evidence whitelist plus score back-check, 90 offline tests.
 
 🕵️ **[night-shift-ai-detective](https://github.com/oniszczukthommy-wq/night-shift-ai-detective)** — *夜班档案 · 狐狸警官*
-A third-person browser detective game with a DeepSeek case generator: schema-validated JSON cases (3 / 4 / 6 NPCs, 4 physical clues, uniquely solvable), NPCs holding only partial facts with possible lies, evidence cross-checking and case submission. Three.js + Node, paired with a 32 KB PRD.
-> AI 探案游戏：先写 PRD 再做可玩 Demo；案件生成器带人数 / 物证 / 凶手在场 / 线索指向关系校验，NPC 只收到自身事实与对话历史。
-
-### Product Design & Systems（产品设计与工作台）
+Third-person browser detective game with a schema-validated DeepSeek case generator: 3 / 4 / 6 NPC difficulty tiers, 4 physical clues, culprit-on-scene checks; NPCs hold only partial facts; paired with PRD v0.8.
 
 🎵 **[Osmanthus](https://github.com/oniszczukthommy-wq/Osmanthus)** — *音乐与 MV 创作工作台*
-Two connected studios under one local entry. Music side: idea → editable lyrics → two song versions → stem preview → score export. MV side: free canvas, storyboard clips, material upload, subtitles and MP4 export. Local-first; large media stored in Releases with checksum verification.
-> AI 音乐 + MV 一体化工作台：想法 → 歌词确认 → 双版本歌曲 → 分轨试听 → MV 分镜画布剪辑导出。
+Idea → confirmed lyrics → two song versions → stem preview → MV storyboard canvas → MP4. Local-first; 26 showcase videos stored in Releases with per-file SHA-256 checksums; video generation has a CNY budget guardrail.
+
+### Product Systems & Tooling（产品设计与工作台）
 
 🧰 **[blue-pm-workbench](https://github.com/oniszczukthommy-wq/blue-pm-workbench)** — *Blue PM 工作台*
-A local PM cockpit: multi-source web teardown → requirement interview → human-confirmed PRD versions → technical plan → development task board; every AI edit shows a diff before it is saved. Built on the open-source agent-blueprint (MIT); personal extensions are listed in [PERSONAL_EXTENSIONS.md](https://github.com/oniszczukthommy-wq/blue-pm-workbench/blob/main/PERSONAL_EXTENSIONS.md).
-> 面向个人的 PM 工作台：产品拆解、需求访谈、PRD 版本管理、技术方案与任务看板走同一条流程。
+Local PM cockpit: multi-source web teardown → requirement interview → human-confirmed PRD versions → technical plan → task board; AI edits show a diff before being saved. Built on the open-source agent-blueprint (MIT); personal extensions listed in [PERSONAL_EXTENSIONS.md](https://github.com/oniszczukthommy-wq/blue-pm-workbench/blob/main/PERSONAL_EXTENSIONS.md).
 
 ### Frontend & Landing
 
 🌌 **[astronavi-landing](https://github.com/oniszczukthommy-wq/astronavi-landing)** — 天文通 APP 官网落地页
-Single-file cinematic landing page: Three.js parallax star field, meteors, interactive solar system, procedural moon phase, GSAP scroll narrative, `prefers-reduced-motion` fallback. [Live preview](https://hcn4pc1ewda5.doubaoapps.com/app/app_17etd2u5kmk).
+Single-file cinematic landing: Three.js parallax star field, meteors, interactive solar system, procedural moon phases, GSAP scroll narrative, `prefers-reduced-motion` fallback. [Live preview](https://hcn4pc1ewda5.doubaoapps.com/app/app_17etd2u5kmk).
 
 ---
 
@@ -61,6 +60,6 @@ Notes on AI products and model capabilities, from a product lens:
 
 ## About
 
-- AI Product Manager in training toward AI PM / Forward Deployed Engineer roles
-- I care that an idea becomes something a reviewer can actually run and judge
-- Open to AI PM / FDE opportunities in Singapore
+- AI Product Manager building local-first tools and agents
+- Music education background (Luoyang Normal University, 2023); prior teaching experience
+- What I care about: an idea becomes something a reviewer can actually run and judge
