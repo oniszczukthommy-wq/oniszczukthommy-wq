@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 170" width="880" height="170" role="img" aria-label="YZH OS launcher banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f7f9"/>
+      <stop offset="1" stop-color="#e8eef4"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="880" height="170" rx="16" fill="url(#bg)"/>
+  <rect x="24" y="24" width="832" height="122" rx="12" fill="#ffffff" fill-opacity="0.72" stroke="#cdd6df" stroke-width="1"/>
+  <circle cx="48" cy="46" r="6" fill="#ff5f57"/>
+  <circle cx="68" cy="46" r="6" fill="#febc2e"/>
+  <circle cx="88" cy="46" r="6" fill="#28c840"/>
+  <text x="440" y="52" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#9aa7b4" letter-spacing="3">YUANHANG ZHOU · PERSONAL SITE</text>
+  <text x="64" y="102" font-family="Menlo, Consolas, monospace" font-size="20" fill="#2e75e8" font-weight="700">$ open yuanhang.os</text>
+  <rect x="262" y="84" width="11" height="24" fill="#33b879"/>
+  <text x="440" y="132" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="14" fill="#6f7e8e">Click this launcher to open the portfolio site · products / writing / contact</text>
+</svg>
