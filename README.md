@@ -26,7 +26,7 @@ Two connected studios under one local entry. Music side: idea → editable lyric
 > AI 音乐 + MV 一体化工作台：想法 → 歌词确认 → 双版本歌曲 → 分轨试听 → MV 分镜画布剪辑导出。
 
 🧰 **[blue-pm-workbench](https://github.com/oniszczukthommy-wq/blue-pm-workbench)** — *Blue PM 工作台*
-A local PM cockpit: multi-source web teardown → requirement interview → human-confirmed PRD versions → technical plan → development task board; every AI edit shows a diff before it is saved. Built on the open-source agent-blueprint (MIT) with personal extensions on top (see the extension section at the top of that repo README).
+A local PM cockpit: multi-source web teardown → requirement interview → human-confirmed PRD versions → technical plan → development task board; every AI edit shows a diff before it is saved. Built on the open-source agent-blueprint (MIT); personal extensions are listed in [PERSONAL_EXTENSIONS.md](https://github.com/oniszczukthommy-wq/blue-pm-workbench/blob/main/PERSONAL_EXTENSIONS.md).
 > 面向个人的 PM 工作台：产品拆解、需求访谈、PRD 版本管理、技术方案与任务看板走同一条流程。
 
 ### Frontend & Landing
