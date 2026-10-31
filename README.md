@@ -1,43 +1,58 @@
 # Hi, I'm Yuanhang Zhou 👋
 
 [![YZH OS launcher](assets/portfolio-launch.svg)](https://oniszczukthommy-wq.github.io/)
-<p align="center"><sub>Click the terminal launcher above to open my personal site</sub></p>
 
-I build local-first AI tools and agents: from PRD and user research all the way to a demo you can actually run.
-My background is music education and teaching; I practice Agent product design, human-in-the-loop decision flows, and shipping small, opinionated products end to end.
+<p align="center"><sub>Click the terminal above to explore my personal website</sub></p>
 
-🌐 [Website](https://oniszczukthommy-wq.github.io/) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5cd98bab0000000010005b08) · ✉️ oniszczukthommy@gmail.com
+My background is in music education and teaching.  
+Today, I build AI products, tools, and agents.  
+I turn ideas into working prototypes, from understanding a user need to designing the workflow and building the experience.  
+Music, creative tools, and human–AI collaboration are recurring themes in my work.  
+I care about products people can try, understand, and make their own.
+
+🌐 [Website](https://oniszczukthommy-wq.github.io/) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5cd98bab0000000010005b08) · ✉️ [Email](mailto:oniszczukthommy@gmail.com)
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured projects
 
-### Runnable Demos（可本地跑起来的产品原型）
+Six explorations in AI products, creative workflows, and interactive experiences.
 
-🔭 **[film-shot-agent](https://github.com/oniszczukthommy-wq/film-shot-agent)** — *Cinematic shot & line search agent*
-Retrieval agent over two CC BY 3.0 open films: 244 shots, faceted search, dialogue aligned to the timeline, ffmpeg clip export and reference board; evidence whitelist plus score back-check, 90 offline tests.
+🎵 [**Osmanthus · AI Music Workbench**](https://github.com/oniszczukthommy-wq/ai-music-workbench-showcase)  
+Turn a musical idea into a song you can listen to, edit, and export.  
+Connects lyric confirmation, two song candidates, stem editing, and score preparation.  
+Also explores MV storyboarding and video export; the full MV workflow is still being validated.
 
-🕵️ **[night-shift-ai-detective](https://github.com/oniszczukthommy-wq/night-shift-ai-detective)** — *夜班档案 · 狐狸警官*
-Third-person browser detective game with a schema-validated DeepSeek case generator: 3 / 4 / 6 NPC difficulty tiers, 4 physical clues, culprit-on-scene checks; NPCs hold only partial facts; paired with PRD v0.8.
+🧰 [**Blue · Product Manager Workbench**](https://github.com/oniszczukthommy-wq/blue-pm-workbench-showcase)  
+A local workspace connecting product research, requirements, documents, and tasks.  
+Supports requirement interviews, versioned PRDs, and AI edits reviewed as diffs before saving.  
+Development automation is a planned next step.
 
-🎵 **[Osmanthus](https://github.com/oniszczukthommy-wq/Osmanthus)** — *音乐与 MV 创作工作台*
-Idea → confirmed lyrics → two song versions → stem preview → MV storyboard canvas → MP4. Local-first; 26 showcase videos stored in Releases with per-file SHA-256 checksums; video generation has a CNY budget guardrail.
+🕵️ [**Night Shift · AI Detective**](https://github.com/oniszczukthommy-wq/night-shift-ai-detective-showcase)  
+A third-person browser detective game built around conversations and physical clues.  
+AI generates structured cases; each NPC knows only part of the story.  
+Players compare testimony, gather evidence, and submit their conclusion.
 
-### Product Systems & Tooling（产品设计与工作台）
+🎬 [**Shot Agent · Film Search Assistant**](https://github.com/oniszczukthommy-wq/film-shot-agent)  
+Find films from dialogue or scene descriptions, with sources you can check.  
+Includes a searchable library of 244 shots from two CC BY 3.0 films.  
+Supports clip and GIF export, reference boards, and a personal watchlist.
 
-🧰 **[blue-pm-workbench](https://github.com/oniszczukthommy-wq/blue-pm-workbench)** — *Blue PM 工作台*
-Local PM cockpit: multi-source web teardown → requirement interview → human-confirmed PRD versions → technical plan → task board; AI edits show a diff before being saved. Built on the open-source agent-blueprint (MIT); personal extensions listed in [PERSONAL_EXTENSIONS.md](https://github.com/oniszczukthommy-wq/blue-pm-workbench/blob/main/PERSONAL_EXTENSIONS.md).
+🎨 [**Edge AI Studio · Visual Workbench**](https://github.com/oniszczukthommy-wq/edge-ai-vision-studio-showcase)  
+Organize creative assets, generation tasks, and exports on a local canvas.  
+Explores task queues, layers, batch export, and recovery after interruptions.  
+The current prototype uses a mock generation backend; real-model integration remains to be validated.
 
-### Frontend & Landing
-
-🌌 **[astronavi-landing](https://github.com/oniszczukthommy-wq/astronavi-landing)** — 天文通 APP 官网落地页
-Single-file cinematic landing: Three.js parallax star field, meteors, interactive solar system, procedural moon phases, GSAP scroll narrative, `prefers-reduced-motion` fallback. [Live preview](https://hcn4pc1ewda5.doubaoapps.com/app/app_17etd2u5kmk).
+🎸 [**弦间 · Guitar Workbench**](https://github.com/oniszczukthommy-wq/guitar-workbench-showcase)  
+Play chords and strum a virtual guitar with your keyboard, touch, or camera gestures.  
+Combines chord sheets, transposition, and voice-and-guitar recording in the browser.  
+Gesture stability and automatic chord recognition still need device-specific checks.
 
 ---
 
 ## ✍️ Writing
 
-Notes on AI products and model capabilities, from a product lens:
+I write about AI products, agents, and how model capabilities translate into everyday experiences:
 
 - [Jev爆火背后：AI模型正在从"什么都能聊"走向"只做一件事"](https://mp.weixin.qq.com/s/QUxastjphzBssuFruJr6sg)
 - [降本不是口号：Haiku 5.5 让「子 Agent 批量跑」第一次算得过来](https://mp.weixin.qq.com/s/ZgMWDtMdYGFYiIBSBTWsIw)
@@ -52,14 +67,10 @@ Notes on AI products and model capabilities, from a product lens:
 
 ---
 
-## Toolbox
-
-- **Product**: PRD writing, requirement interviews, competitive teardown research, user journey design, acceptance criteria
-- **Build**: Python · FastAPI · SQLite · Node.js · Three.js · FFmpeg · DeepSeek / DashScope / Qwen APIs · prompt & agent design · uv / pnpm
-- **Principles**: local-first; human confirmation before AI writes anything permanent; deterministic guardrails over model self-control
-
 ## About
 
-- AI Product Manager building local-first tools and agents
-- Music education background (Luoyang Normal University, 2023); prior teaching experience
-- What I care about: an idea becomes something a reviewer can actually run and judge
+- AI product builder focused on local-first tools and agents
+- Music education background · Luoyang Normal University, 2023
+- Prior teaching experience
+- Interested in creative workflows, product design, and human–AI collaboration
+- From user needs and PRDs to prototypes people can try
