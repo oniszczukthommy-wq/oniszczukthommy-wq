@@ -4,11 +4,9 @@
 
 <p align="center"><sub>Click the terminal above to explore my personal website</sub></p>
 
-My background is in music education and teaching.  
-Today, I build AI products, tools, and agents.  
-I turn ideas into working prototypes, from understanding a user need to designing the workflow and building the experience.  
-Music, creative tools, and human–AI collaboration are recurring themes in my work.  
-I care about products people can try, understand, and make their own.
+I build AI products, creative tools, and interactive experiences.  
+From user research and workflow design to working prototypes, I turn ideas into tools people can use.  
+My work explores music, agents, and human–AI collaboration.
 
 🌐 [Website](https://oniszczukthommy-wq.github.io/) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5cd98bab0000000010005b08) · ✉️ [Email](mailto:oniszczukthommy@gmail.com)
 
@@ -16,7 +14,7 @@ I care about products people can try, understand, and make their own.
 
 ## ⭐ Featured projects
 
-Seven explorations in AI products, creative workflows, and interactive experiences.
+Eight explorations in AI products, creative workflows, and interactive experiences.
 
 🎵 [**Osmanthus · AI Music Workbench**](https://github.com/oniszczukthommy-wq/ai-music-workbench-showcase)  
 Turn a musical idea into a song you can listen to, edit, and export.  
@@ -52,6 +50,11 @@ Gesture stability and automatic chord recognition still need device-specific che
 A Chinese-language singing practice app based on OnKey, with a local browser interface and macOS audio helper.  
 Connects experimental QQ Music playback with live pitch feedback, practice recordings, and score history.  
 Currently supports Apple Silicon Mac; Windows compatibility is in preparation, and scoring accuracy still needs calibration.
+
+🛂 [**通行证 · IP, PLEASE**](https://github.com/oniszczukthommy-wq/ip-please.github.io)  
+A fork of IP, PLEASE, a pixel-art checkpoint game inspired by Papers, Please.  
+Inspect documents, spot inconsistencies, and apply changing rules across a six-day story with two endings.  
+Supports Chinese and English, with a static browser build that can also run offline.
 
 ---
 
