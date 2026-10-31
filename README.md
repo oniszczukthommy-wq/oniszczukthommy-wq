@@ -54,6 +54,13 @@ Gesture stability and automatic chord recognition still need device-specific che
 
 I write about AI products, agents, and how model capabilities translate into everyday experiences:
 
+- [推门出去 30 秒再回来，那扇门还开着：Genie 4 把"视频"变成了"世界"](https://mp.weixin.qq.com/s/ZZLfkkLJsequ9kDZ4-lT8A)
+- [审稿几个月，以后可能几天：AI 把学术出版的第一道闸门抢了](https://mp.weixin.qq.com/s/7RokY8dSJPUiGXa2fYxOqA)
+- [3 万亿参数开源模型逼近 Opus 5.5，但大家先吵起了额度](https://mp.weixin.qq.com/s/4X638XgUbo4LP0YKeF7s-Q)
+- [可灵 4.0 API 首发：你当导演钉分镜，AI 只管演中间那段](https://mp.weixin.qq.com/s/YOuTH7OfQ-z0FBQgSRUqBQ)
+- [一个半月，Meta、OpenAI、Anthropic 把个人 Agent 的牌桌坐满了](https://mp.weixin.qq.com/s/YP_p5Yw85fQfBmdmOxWVoQ)
+- [12 万星的 REA 吹得很神，但先看清它能拆什么、拆不动什么](https://mp.weixin.qq.com/s/3rvyQsUdbAgbf31ZSOUa0A)
+- [别人渲染一部短片的时间，它已经让你试了二十条](https://mp.weixin.qq.com/s/GVgGslNUo2JcgjA5Ocz8zw)
 - [Jev爆火背后：AI模型正在从"什么都能聊"走向"只做一件事"](https://mp.weixin.qq.com/s/QUxastjphzBssuFruJr6sg)
 - [降本不是口号：Haiku 5.5 让「子 Agent 批量跑」第一次算得过来](https://mp.weixin.qq.com/s/ZgMWDtMdYGFYiIBSBTWsIw)
 - [我试了一圈 Personal Agent，发现离"私人助手"还很远](https://mp.weixin.qq.com/s/Sh5ovTCxbSKS5OEx1J-vDw)
@@ -74,3 +81,4 @@ I write about AI products, agents, and how model capabilities translate into eve
 - Prior teaching experience
 - Interested in creative workflows, product design, and human–AI collaboration
 - From user needs and PRDs to prototypes people can try
+
