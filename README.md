@@ -52,7 +52,7 @@ Connects experimental QQ Music playback with live pitch feedback, practice recor
 Currently supports Apple Silicon Mac; Windows compatibility is in preparation, and scoring accuracy still needs calibration.
 
 🛂 [**通行证 · IP, PLEASE**](https://github.com/oniszczukthommy-wq/ip-please.github.io)  
-A fork of IP, PLEASE, a pixel-art checkpoint game inspired by Papers, Please.  
+A pixel-art checkpoint game about document checks, access rules, and difficult decisions.  
 Inspect documents, spot inconsistencies, and apply changing rules across a six-day story with two endings.  
 Supports Chinese and English, with a static browser build that can also run offline.
 
