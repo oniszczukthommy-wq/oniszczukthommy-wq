@@ -16,7 +16,7 @@ I care about products people can try, understand, and make their own.
 
 ## ⭐ Featured projects
 
-Six explorations in AI products, creative workflows, and interactive experiences.
+Seven explorations in AI products, creative workflows, and interactive experiences.
 
 🎵 [**Osmanthus · AI Music Workbench**](https://github.com/oniszczukthommy-wq/ai-music-workbench-showcase)  
 Turn a musical idea into a song you can listen to, edit, and export.  
@@ -47,6 +47,11 @@ The current prototype uses a mock generation backend; real-model integration rem
 Play chords and strum a virtual guitar with your keyboard, touch, or camera gestures.  
 Combines chord sheets, transposition, and voice-and-guitar recording in the browser.  
 Gesture stability and automatic chord recognition still need device-specific checks.
+
+🎤 [**唱准 · AI Singing Practice & Scoring**](https://github.com/oniszczukthommy-wq/changzhun-web) · Private repository  
+A Chinese-language singing practice app based on OnKey, with a local browser interface and macOS audio helper.  
+Connects experimental QQ Music playback with live pitch feedback, practice recordings, and score history.  
+Currently supports Apple Silicon Mac; Windows compatibility is in preparation, and scoring accuracy still needs calibration.
 
 ---
 
