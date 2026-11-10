@@ -51,7 +51,7 @@ A Chinese-language singing practice app based on OnKey, with a local browser int
 Connects experimental QQ Music playback with live pitch feedback, practice recordings, and score history.  
 Includes an experimental Windows QQ Music and NetEase prototype; device support and scoring accuracy still need validation.
 
-🛂 [**通行证 · IP, PLEASE**](https://github.com/oniszczukthommy-wq/ip-please.github.io)  
+🛂 [**AI通行证小游戏**](https://github.com/oniszczukthommy-wq/ip-please.github.io)  
 A pixel-art checkpoint game about document checks, access rules, and difficult decisions.  
 Inspect documents, spot inconsistencies, and apply changing rules across a six-day story with two endings.  
 Supports Chinese and English, with a static browser build that can also run offline.
