@@ -36,10 +36,10 @@ Find films from dialogue or scene descriptions, with sources you can check.
 Includes a searchable library of 244 shots from two CC BY 3.0 films.  
 Supports clip and GIF export, reference boards, and a personal watchlist.
 
-🎨 [**Edge AI Studio · Visual Workbench**](https://github.com/oniszczukthommy-wq/edge-ai-vision-studio-showcase)  
-Organize creative assets, generation tasks, and exports on a local canvas.  
-Explores task queues, layers, batch export, and recovery after interruptions.  
-The current prototype uses a mock generation backend; real-model integration remains to be validated.
+🎨 [**Edge AI Studio · Visual Workbench**](https://github.com/oniszczukthommy-wq/edge-ai-vision-studio-showcase) · Private repository  
+Xiaoju is a Chinese AI drama creation workspace adapted from the open-source Moying platform.  
+Includes a canvas, short-drama projects, and a link to Doubao for manual image import.  
+Text-to-video and image-to-video require external model services and remain unverified.
 
 🎸 [**弦间 · Guitar Workbench**](https://github.com/oniszczukthommy-wq/guitar-workbench-showcase)  
 Play chords and strum a virtual guitar with your keyboard, touch, or camera gestures.  
