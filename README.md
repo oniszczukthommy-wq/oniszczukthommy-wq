@@ -19,24 +19,24 @@ Eight explorations in AI products, creative workflows, and interactive experienc
 🎵 [**Osmanthus · AI Music Workbench**](https://github.com/oniszczukthommy-wq/ai-music-workbench-showcase)  
 Turn a musical idea into a song you can listen to, edit, and export.  
 Connects lyric confirmation, two song candidates, stem editing, and score preparation.  
-Also explores MV storyboarding and video export; the full MV workflow is still being validated.
+The source snapshot requires local setup and external models; the full MV workflow is still being validated.
 
 🧰 [**Blue · Product Manager Workbench**](https://github.com/oniszczukthommy-wq/blue-pm-workbench-showcase)  
 A local workspace connecting product research, requirements, documents, and tasks.  
 Supports requirement interviews, versioned PRDs, and AI edits reviewed as diffs before saving.  
-Development automation is a planned next step.
+Some product methods need separately installed skills; development automation is a planned next step.
 
 🕵️ [**Night Shift · AI Detective**](https://github.com/oniszczukthommy-wq/night-shift-ai-detective-showcase)  
 A third-person browser detective game built around conversations and physical clues.  
 AI generates structured cases; each NPC knows only part of the story.  
-Players compare testimony, gather evidence, and submit their conclusion.
+The public snapshot omits third-party scene assets; replacements are needed before the 3D scene can run.
 
 🎬 [**Shot Agent · Film Search Assistant**](https://github.com/oniszczukthommy-wq/film-shot-agent)  
 Find films from dialogue or scene descriptions, with sources you can check.  
 Includes a searchable library of 244 shots from two CC BY 3.0 films.  
 Supports clip and GIF export, reference boards, and a personal watchlist.
 
-🎨 [**Edge AI Studio · Visual Workbench**](https://github.com/oniszczukthommy-wq/edge-ai-vision-studio-showcase) · Private repository  
+🎨 [**Edge AI Studio · Visual Workbench**](https://github.com/oniszczukthommy-wq/edge-ai-vision-studio-showcase)  
 Xiaoju is a Chinese AI drama creation workspace adapted from the open-source Moying platform.  
 Includes a canvas, short-drama projects, and a link to Doubao for manual image import.  
 Text-to-video and image-to-video require external model services and remain unverified.
@@ -46,10 +46,10 @@ Play chords and strum a virtual guitar with your keyboard, touch, or camera gest
 Combines chord sheets, transposition, and voice-and-guitar recording in the browser.  
 Gesture stability and automatic chord recognition still need device-specific checks.
 
-🎤 [**唱准 · AI Singing Practice & Scoring**](https://github.com/oniszczukthommy-wq/changzhun-web) · Private repository  
+🎤 [**唱准 · AI Singing Practice & Scoring**](https://github.com/oniszczukthommy-wq/changzhun-web-showcase)  
 A Chinese-language singing practice app based on OnKey, with a local browser interface and macOS audio helper.  
 Connects experimental QQ Music playback with live pitch feedback, practice recordings, and score history.  
-Currently supports Apple Silicon Mac; Windows compatibility is in preparation, and scoring accuracy still needs calibration.
+Includes an experimental Windows QQ Music and NetEase prototype; device support and scoring accuracy still need validation.
 
 🛂 [**通行证 · IP, PLEASE**](https://github.com/oniszczukthommy-wq/ip-please.github.io)  
 A pixel-art checkpoint game about document checks, access rules, and difficult decisions.  
